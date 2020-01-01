@@ -1,2 +1,2 @@
 # NLP-works
-Assignment&amp;works NLP class
+Assignments&amp;works of NLP class
